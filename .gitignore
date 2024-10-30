@@ -1,6 +1,5 @@
 extended-corpus
 __pycache__
 bert_data
-plots
 *.npy
 *.pth

@@ -3,7 +3,7 @@
 - This project realize some experiments with two models, the first is **Bert model** and last one is **GPT-4o-mini with prompt engineer**.
 
 ## Dependences
-- See bellow what is the dependences for each model.
+- See below what is the dependences for each model.
 
 ### Bert Model
 - torch (pytorch)
@@ -34,7 +34,10 @@
     - Accuracy
     - F1 Score
     - QWK (Quadratic Weighted Kappa)
-- See bellow our results:
+
+## Results
+- See below our results (compatition between Accuracy, F1 Score and QWK):
+- PS: Accuracy-40 and QWK-40 is comparison of how much the model can predict considering a range of 40 points in the competência.
 
 | Competência | Métrica       | Bert Model | GPT-4o-mini (prompt v1) |
 |-------------|---------------|------------|-------------------------|
@@ -63,3 +66,31 @@
 |             | QWK           | 0.6135     | 0.3952                 |
 |             | QWK-40        | 1          | 0.5847                 |
 |             | F1            | 0.4862     | 0.3418                 |
+
+### Confusion Matrix
+- See below the confusion matrix computed using accuracy:
+
+<div align="center">
+  <img src="bert-model/plots/matrix_confusao_1.png" alt="Competência 1" width="200"/>
+  <img src="bert-model/plots/matrix_confusao_2.png" alt="Competência 2" width="200"/>
+  <img src="bert-model/plots/matrix_confusao_3.png" alt="Competência 3" width="200"/>
+</div>
+
+<div align="center">
+  <img src="bert-model/plots/matrix_confusao_4.png" alt="Competência 4" width="200"/>
+  <img src="bert-model/plots/matrix_confusao_5.png" alt="Competência 5" width="200"/>
+</div>
+
+### Metrics
+- We plot the loss and results of metrics for comparison:
+
+<div align="center">
+  <img src="bert-model/plots/metricas_1.png" alt="Competência 1" width="200"/>
+  <img src="bert-model/plots/metricas_2.png" alt="Competência 2" width="200"/>
+  <img src="bert-model/plots/metricas_3.png" alt="Competência 3" width="200"/>
+</div>
+
+<div align="center">
+  <img src="bert-model/plots/metricas_4.png" alt="Competência 4" width="200"/>
+  <img src="bert-model/plots/metricas_5.png" alt="Competência 5" width="200"/>
+</div>
