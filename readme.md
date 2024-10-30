@@ -70,6 +70,7 @@
 ### Confusion Matrix
 - See below the confusion matrix computed using accuracy:
 
+#### Bert Model
 <div align="center">
   <table>
     <tr align="center">
@@ -101,7 +102,39 @@
   </table>
 </div>
 
-### Metrics
+#### GPT-4o-mini
+<div align="center">
+  <table>
+    <tr align="center">
+      <td>
+        <strong>Competência 1</strong><br>
+        <img src="llm-models/plots/matrix_confusao_Competência I.png" alt="Competência 1" width="200"/>
+      </td>
+      <td>
+        <strong>Competência 2</strong><br>
+        <img src="llm-models/plots/matrix_confusao_Competência II.png" alt="Competência 2" width="200"/>
+      </td>
+      <td>
+        <strong>Competência 3</strong><br>
+        <img src="llm-models/plots/matrix_confusao_Competência III.png" alt="Competência 3" width="200"/>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr align="center">
+      <td>
+        <strong>Competência 4</strong><br>
+        <img src="llm-models/plots/matrix_confusao_Competência IV.png" alt="Competência 4" width="200"/>
+      </td>
+      <td>
+        <strong>Competência 5</strong><br>
+        <img src="llm-models/plots/matrix_confusao_Competência V.png" alt="Competência 5" width="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Metrics of Bert Model
 - We plot the loss and results of metrics for comparison:
 
 <div align="center">
