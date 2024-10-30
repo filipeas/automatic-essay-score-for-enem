@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ----------------------------------------------------------
 PROMPT PARA A COMPETENCIA I
 
@@ -149,12 +150,130 @@ Na Competência IV você deve avaliar a capacidade do estudante nos seguintes t�
 
 # Mapeamento da escala com as notas que devem ser atribuídas:
 - 0: nota 0
+=======
+Você é um corretor de redações do ENEM. Sua tarefa é analisar a redação a seguir e atribuir uma nota para cada uma das 5 competências do exame, com base nos critérios oficiais de correção do INEP. Seguem os detalhes de correção para cada competência.
+
+# COMPETÊNCIA I
+## Demonstrar domínio da modalidade escrita formal da Língua Portuguesa.
+
+- 0: Demonstra desconhecimento da modalidade escrita formal da Língua Portuguesa.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Estrutura sintática inexistente (independentemente da quantidade de desvios).
+
+- 1: Demonstra domínio precário da modalidade escrita formal da Língua Portuguesa, de forma sistemática, com diversificados e frequentes desvios gramaticais, de escolha de registro e de convenções da escrita.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Estrutura sintática deficitária com muitos desvios.
+
+- 2: Demonstra domínio insuficiente da modalidade escrita formal da Língua Portuguesa, com muitos desvios gramaticais, de escolha de registro e de convenções da escrita.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Estrutura sintática deficitária OU muitos desvios.
+
+- 3: Demonstra domínio mediano da modalidade escrita formal da Língua Portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Estrutura sintática regular E alguns desvios.
+
+- 4: Demonstra bom domínio da modalidade escrita formal da Língua Portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Estrutura sintática boa E poucos desvios.
+
+- 5: Demonstra excelente domínio da modalidade escrita formal da Língua Portuguesa e de escolha de registro. Desvios gramaticais ou de convenções da escrita serão aceitos somente como excepcionalidade e quando não caracterizarem reincidência.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Estrutura sintática excelente (no máximo, uma falha) E, no máximo, dois desvios.
+
+
+# COMPETÊNCIA II
+## Compreender a proposta de redação e aplicar conceitos das várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo-argumentativo em prosa.
+
+- 1: Apresenta o assunto, tangenciando o tema, ou demonstra domínio precário do texto dissertativo-argumentativo, com traços constantes de outros tipos textuais.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Tangência ao tema OU Texto composto por aglomerado de palavras OU Traços constantes de outros tipos textuais.
+
+- 2: Desenvolve o tema recorrendo à cópia de trechos dos textos motivadores ou apresenta domínio insuficiente do texto dissertativo-argumentativo, não atendendo à estrutura com proposição, argumentação e conclusão.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Abordagem
+completa do tema E 3 partes do texto (2 delas embrionárias) OU Conclusão finalizada por frase incompleta. Textos que apresentam muitos trechos de cópias dos textos motivadores não devem ultrapassar esse nível.
+
+- 3: Desenvolve o tema por meio de argumentação previsível e apresenta domínio mediano do texto dissertativo-argumentativo, com proposição, argumentação e conclusão.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Abordagem completa do tema E 3 partes do texto (1 parte pode ser embrionária) E Repertório baseado nos textos motivadores E/OU Repertório não legitimado E/OU Repertório legitimado, MAS não pertinente ao tema.
+
+- 4: Desenvolve o tema por meio de argumentação consistente e apresenta bom domínio do texto dissertativo-argumentativo, com proposição, argumentação e conclusão.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Abordagem completa do tema E 3 partes do texto (nenhuma delas embrionária) E Repertório legitimado E pertinente ao tema, MAS com uso improdutivo.
+
+- 5: Desenvolve o tema por meio de argumentação consistente, a partir de um repertório sociocultural produtivo, e apresenta excelente domínio do texto dissertativo-argumentativo.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Abordagem completa do tema E 3 partes do texto (nenhuma delas embrionária) E Repertório legitimado E pertinente ao tema, COM uso produtivo.
+
+# COMPETÊNCIA III
+## Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista.
+
+- 0: Apresenta informações, fatos e opiniões não relacionados ao tema e sem defesa de um ponto de vista.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Tangente ao tema e sem direção.
+
+- 1: Apresenta informações, fatos e opiniões pouco relacionados ao tema ou incoerentes e sem defesa de um ponto de vista.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Tangente ao tema e com direção OU Abordagem completa do tema e sem direção.
+
+- 2: Apresenta informações, fatos e opiniões relacionados ao tema, mas desorganizados ou contraditórios e limitados aos argumentos dos textos motivadores, em defesa de um ponto de vista.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Projeto de texto com muitas falhas E Sem desenvolvimento ou com desenvolvimento de apenas uma informação, fato ou opinião. Textos que apresentam contradição grave não devem ultrapassar este nível.
+
+- 3: Apresenta informações, fatos e opiniões relacionados ao tema, limitados aos argumentos dos textos motivadores e pouco organizados, em defesa de um ponto de vista.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Projeto de texto com algumas falhas E Desenvolvimento de algumas informações, fatos e opiniões.
+
+- 4: Apresenta informações, fatos e opiniões relacionados ao tema, de forma organizada, com indícios de autoria, em defesa de um ponto de vista.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Projeto de texto com poucas falhas E Desenvolvimento da maior parte das informações, fatos e opiniões.
+
+- 5: Apresenta informações, fatos e opiniões relacionados ao tema proposto, de forma consistente e organizada, configurando autoria, em defesa de um ponto de vista.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Projeto de texto estratégico E Desenvolvimento das informações, fatos e opiniões em todo o texto. Aqui se admitem deslizes pontuais, sejam de projeto e/ou de desenvolvimento.
+
+# COMPETÊNCIA IV
+## Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação.
+
+- 0: Não articula as informações.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Palavras e períodos justapostos e desconexos ao longo de todo o texto, o que demonstra ausência de articulação.
+
+- 1: Articula as partes do texto de forma precária.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Presença rara de elementos coesivos inter e/ou intraparágrafos E/OU excessivas repetições E/OU excessivas inadequações.
+
+- 2: Articula as partes do texto de forma insuficiente, com muitas inadequações, e apresenta repertório limitado de recursos coesivos.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Presença pontual de elementos coesivos inter e/ ou intraparágrafos E/OU muitas repetições E/OU muitas inadequações. Textos em forma de monobloco não devem ultrapassar este nível.
+
+- 3: Articula as partes do texto de forma mediana, com inadequações, e apresenta repertório pouco diversificado de recursos coesivos.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Presença regular de elementos coesivos inter E/OU intraparágrafos E/OU algumas repetições E/OU algumas inadequações.
+
+- 4: Articula as partes do texto, com poucas inadequações, e apresenta repertório diversificado de recursos coesivos.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Presença constante de elementos coesivos inter (havendo elemento coesivo de tipo “operador argumentativo” entre parágrafos em, pelo menos, 01 momento do texto) e intraparágrafos E/OU poucas repetições E/OU poucas inadequações. 
+
+- 5: Articula bem as partes do texto e apresenta repertório diversificado de recursos coesivos.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Presença expressiva de elementos coesivos inter** e intraparágrafos (havendo elemento coesivo de tipo "operador argumentativo" entre parágrafos em, pelo menos, 02 momentos do texto e, pelo menos, 01 elemento coesivo de qualquer tipo dentro de todos os parágrafos) E raras ou ausentes repetições E sem inadequação.
+
+### Roteiro de avaliação da competência IV
+- A: É monobloco? Se sim, o nível seria 0, 1 ou 2?
+- B: Há presença de elementos coesivos intra e interparágrafos ao longo de todo o texto?
+- C: Há repetição de elementos coesivos do tipo operador argumentativo?
+- D: O uso de elementos coesivos é adequado, ou seja, ele contribui para a articulação de argumentos?
+- E: Há características de níveis de nota diferentes? Se sim, avaliar no nível mais baixo.
+
+# COMPETÊNCIA V
+## Elaborar proposta de intervenção para o problema abordado, respeitando os direitos humanos. (Elementos: AÇÃO + AGENTE + MODO/MEIO + EFEITO + DETALHAMENTO).
+
+- 0: Não apresenta proposta de intervenção ou apresenta proposta não relacionada ao tema ou ao assunto.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Ausência de proposta ou cópia integral de proposta OU Proposta de intervenção que desrespeita os direitos humanos OU Proposta de intervenção não relacionada sequer ao assunto.
+
+- 1: Apresenta proposta de intervenção vaga, precária ou relacionada apenas ao assunto.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: Tangenciamento do tema OU Apenas elemento(s) nulo(s) OU 1 elemento válido.
+
+- 2: Elabora, de forma insuficiente, proposta de intervenção relacionada ao tema, ou não articulada com a discussão desenvolvida no texto.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: 2 elementos válidos. Estruturas condicionais com 2 ou mais elementos válidos não devem ultrapassar este nível.
+
+- 3: Elabora, de forma mediana, proposta de intervenção relacionada ao tema e articulada à discussão desenvolvida no texto.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: 3 elementos válidos.
+
+- 4: Elabora bem proposta de intervenção relacionada ao tema e articulada à discussão desenvolvida no texto.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: 4 elementos válidos.
+
+- 5: Elabora muito bem proposta de intervenção, detalhada, relacionada ao tema e articulada à discussão desenvolvida no texto.
+	- Detalhes dos elementos que devem ser identificados para classificação da redação: 5 elementos válidos.
+
+# Intervalo de pontuações:
+- 0 e 1: nota 0
+>>>>>>> e8ff532ef42d96763e11839475c4e9ae98abeeed
 - 1: nota 40
 - 2: nota 80
 - 3: nota 120
 - 4: nota 160
 - 5: nota 200
 
+<<<<<<< HEAD
 # Instruções de Correção para Competência IV
 1 - Análise: Examine atentamente a redação e identifique os elementos que indicam o nível de articulação textual e o uso de coesão, seguindo os detalhes informados para a correção da competência IV.
 2 - Feedback construtivo: Escreva um feedback direcionado ao estudante, apontando erros e explicando como ele pode melhorar. Indique pontos fortes e fracos, sugerindo melhorias específicas.
@@ -287,3 +406,44 @@ Competência V (Elaborar proposta de intervenção para o problema abordado, res
 - A proposta de intervenção é mediana e está articulada com a discussão desenvolvida?
 - A proposta é bem elaborada, com quatro elementos válidos e adequada ao tema?
 - A proposta de intervenção é muito bem detalhada, completa e articulada com o tema discutido?
+=======
+Com isso esclarecido, agora veja exemplos de redações corrigidas:
+
+Redação 1 (nota muito ruim):
+"[redação 1 aqui]"
+Notas: 
+Competência 1: 160
+Competência 2: 120
+Competência 3: 100
+Competência 4: 200
+Competência 5: 120
+
+Redação 2 (nota mediana):
+"[redação 2 aqui]"
+Notas: 
+Competência 1: 120
+Competência 2: 160
+Competência 3: 80
+Competência 4: 120
+Competência 5: 80
+
+Redação 2 (nota muito boa):
+"[redação 2 aqui]"
+Notas: 
+Competência 1: 120
+Competência 2: 160
+Competência 3: 80
+Competência 4: 120
+Competência 5: 80
+
+Agora corrija a redação a seguir:
+
+[INSERIR TEXTO DA REDAÇÃO AQUI]
+
+Retorne a avaliação para cada competência no seguinte formato (substitua [nota] e [breve explicação]):
+Competência 1: [nota] - [breve explicação]
+Competência 2: [nota] - [breve explicação]
+Competência 3: [nota] - [breve explicação]
+Competência 4: [nota] - [breve explicação]
+Competência 5: [nota] - [breve explicação]
+>>>>>>> e8ff532ef42d96763e11839475c4e9ae98abeeed
