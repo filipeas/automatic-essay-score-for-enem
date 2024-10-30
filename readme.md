@@ -71,26 +71,56 @@
 - See below the confusion matrix computed using accuracy:
 
 <div align="center">
-  <img src="bert-model/plots/matrix_confusao_1.png" alt="Competência 1" width="200"/>
-  <img src="bert-model/plots/matrix_confusao_2.png" alt="Competência 2" width="200"/>
-  <img src="bert-model/plots/matrix_confusao_3.png" alt="Competência 3" width="200"/>
+  <div>
+    <strong>Competência 1</strong><br>
+    <img src="bert-model/plots/matrix_confusao_1.png" alt="Imagem 1" width="200"/>
+  </div>
+  <div>
+    <strong>Competência 2</strong><br>
+    <img src="bert-model/plots/matrix_confusao_2.png" alt="Competência 2" width="200"/>
+  </div>
+  <div>
+    <strong>Competência 3</strong><br>
+    <img src="bert-model/plots/matrix_confusao_3.png" alt="Competência 3" width="200"/>
+  </div>
 </div>
 
 <div align="center">
-  <img src="bert-model/plots/matrix_confusao_4.png" alt="Competência 4" width="200"/>
-  <img src="bert-model/plots/matrix_confusao_5.png" alt="Competência 5" width="200"/>
+  <div>
+    <strong>Competência 4</strong><br>
+    <img src="bert-model/plots/matrix_confusao_4.png" alt="Competência 4" width="200"/>
+  </div>
+  <div>
+    <strong>Competência 5</strong><br>
+    <img src="bert-model/plots/matrix_confusao_5.png" alt="Competência 5" width="200"/>
+  </div>
 </div>
 
 ### Metrics
 - We plot the loss and results of metrics for comparison:
 
 <div align="center">
-  <img src="bert-model/plots/metricas_1.png" alt="Competência 1" width="200"/>
-  <img src="bert-model/plots/metricas_2.png" alt="Competência 2" width="200"/>
-  <img src="bert-model/plots/metricas_3.png" alt="Competência 3" width="200"/>
+  <div>
+    <strong>Competência 1</strong><br>
+    <img src="bert-model/plots/metricas_1.png" alt="Imagem 1" width="200"/>
+  </div>
+  <div>
+    <strong>Competência 2</strong><br>
+    <img src="bert-model/plots/metricas_2.png" alt="Competência 2" width="200"/>
+  </div>
+  <div>
+    <strong>Competência 3</strong><br>
+    <img src="bert-model/plots/metricas_3.png" alt="Competência 3" width="200"/>
+  </div>
 </div>
 
 <div align="center">
-  <img src="bert-model/plots/metricas_4.png" alt="Competência 4" width="200"/>
-  <img src="bert-model/plots/metricas_5.png" alt="Competência 5" width="200"/>
+  <div>
+    <strong>Competência 4</strong><br>
+    <img src="bert-model/plots/metricas_4.png" alt="Competência 4" width="200"/>
+  </div>
+  <div>
+    <strong>Competência 5</strong><br>
+    <img src="bert-model/plots/metricas_5.png" alt="Competência 5" width="200"/>
+  </div>
 </div>
