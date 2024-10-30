@@ -1,0 +1,5 @@
+extended-corpus
+__pycache__
+bert_data
+*.npy
+*.pth
